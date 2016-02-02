@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="FYT.Service.ProjectInfo" CodeBehind="ProjectInfo.svc.cs" %>

@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FYT.Models", "FYT.Models\FY
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FYT.ConsoleApplicationInitializingDB", "FYT.ConsoleApplicationInitializingDB\FYT.ConsoleApplicationInitializingDB.csproj", "{5749DF84-40EF-4E23-B359-698EA0918C12}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FYT.Service", "FYT.Service\FYT.Service.csproj", "{B8C196CC-DC9D-4822-A29B-019DC5123ED7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{5749DF84-40EF-4E23-B359-698EA0918C12}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5749DF84-40EF-4E23-B359-698EA0918C12}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5749DF84-40EF-4E23-B359-698EA0918C12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8C196CC-DC9D-4822-A29B-019DC5123ED7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8C196CC-DC9D-4822-A29B-019DC5123ED7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8C196CC-DC9D-4822-A29B-019DC5123ED7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8C196CC-DC9D-4822-A29B-019DC5123ED7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
